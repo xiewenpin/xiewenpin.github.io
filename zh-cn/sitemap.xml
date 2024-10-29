@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2024-10-29T17:33:05+08:00</lastmod>
+    <lastmod>2024-10-29T21:00:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2024-10-29T17:33:05+08:00</lastmod>
+    <lastmod>2024-10-29T21:00:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
