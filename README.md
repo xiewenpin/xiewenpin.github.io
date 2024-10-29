@@ -1,2 +1,3 @@
-# xiewenpin.github.io
-blog
+# blog-server
+blog-server
+hugo server
