@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-29T17:33:05+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,6 +19,22 @@
                 hreflang="zh-cn"
                 href="https://example.com/"
                 />
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2024-10-29T17:33:05+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://example.com/ar/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://example.com/post/"
+                />
+  </url><url>
+    <loc>https://example.com/p/%E5%8D%9A%E5%AE%A2%E8%BF%81%E7%A7%BB%E4%BA%86/</loc>
+    <lastmod>2024-10-29T17:33:05+08:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
@@ -40,19 +56,6 @@
   </url><url>
     <loc>https://example.com/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://example.com/ar/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/post/"
-                />
   </url><url>
     <loc>https://example.com/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
